@@ -39,5 +39,4 @@ Here are some of the projects I'm / I've been working on. You can find more on m
 
 [MunchMatch - Finding Your Lunch-Mate (Underway)](https://github.com/lucas-s-ma/munchmatch): An application that helps users find new friends in their dining hall.	
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-s-ma&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+[Bias Parsing in Historical Texts](https://github.com/lucas-s-ma/ECBCData2024): An encoder-only pipeline for quantitative historical and sociological research.
