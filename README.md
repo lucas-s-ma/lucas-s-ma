@@ -43,4 +43,4 @@ Here are some of the projects I'm / I've been working on. You can find more on m
 
 <h3><p align='left'> 🎬 Fun Fact </center></p></h3>
 
-I'm also a theater director! Check out [The Return (Friedrich Dürrenmatt)](https://youtu.be/6bVGgAxMyRg?si=inQODltwfsqAgw6X).<br>
+I'm also a theater director! Check out [The Visit (Friedrich Dürrenmatt)](https://youtu.be/6bVGgAxMyRg?si=inQODltwfsqAgw6X).<br>
