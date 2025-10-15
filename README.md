@@ -1,4 +1,4 @@
-<h1><center> Hi, I'm Lucas👋</center></h1>
+<h1><p align='center'> Hi, I'm Lucas👋</center></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/lucas-s-ma" target="_blank">
@@ -9,16 +9,13 @@
 </a>
 </p>
 
-<center>Computer Science + Mathematics @ Duke University</center> <br>
+<h4><p align="center">Computer Science + Mathematics @ Duke University</p></h4> 
 
 ### ❤️ Passion
 Machine learning, full-stack development, and leveraging technology to solve real-world problems. 
 
 ### 🧠 Current Project
 [Exploring multihead attention in protein language models and constraint learning](https://github.com/lucas-s-ma/co-amp).<br>
-
-### 🎬 Fun fact
-I'm also a theater director!<br>
 
 ### 🔧 Technologies & Skills
 <p align="left">
@@ -40,3 +37,6 @@ Here are some of the projects I'm / I've been working on. You can find more on m
 [MunchMatch - Finding Your Lunch-Mate (Underway)](https://github.com/lucas-s-ma/munchmatch): An application that helps users find new friends in their dining hall.	
 
 [Bias Parsing in Historical Texts](https://github.com/lucas-s-ma/ECBCData2024): An encoder-only pipeline for quantitative historical and sociological research.
+
+### 🎬 Fun Fact
+I'm also a theater director! Check out [The Return (Friedrich Dürrenmatt)](https://youtu.be/6bVGgAxMyRg?si=inQODltwfsqAgw6X).<br>
