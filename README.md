@@ -17,7 +17,7 @@ Machine learning, full-stack development, and leveraging technology to solve rea
 
 <h3><p align='left'> 🧠 Current Project </center></p></h3>
 
-[Exploring multihead attention in protein language models and constraint learning](https://github.com/lucas-s-ma/co-amp).<br>
+[Exploring multihead attention in protein language models and constraint learning](https://github.com/lucas-s-ma/geotune).<br>
 
 <h3><p align='left'> 🔧 Technologies & Skills </center></p></h3>
 
