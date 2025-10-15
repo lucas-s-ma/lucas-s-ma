@@ -1,6 +1,6 @@
-# Hi there, I'm Lucas Ma 👋
+<h1><center> Hi, I'm Lucas👋</center></h1>
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/lucas-s-ma" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -9,7 +9,7 @@
 </a>
 </p>
 
-Computer Science and Mathematics @ Duke University <br>
+<center>Computer Science + Mathematics @ Duke University</center> <br>
 
 ### ❤️ Passion
 Machine learning, full-stack development, and leveraging technology to solve real-world problems. 
@@ -17,7 +17,7 @@ Machine learning, full-stack development, and leveraging technology to solve rea
 ### 🧠 Current Project
 [Exploring multihead attention in protein language models and constraint learning](https://github.com/lucas-s-ma/co-amp).<br>
 
-### ⚽ Fun fact
+### 🎬 Fun fact
 I'm also a theater director!<br>
 
 ### 🔧 Technologies & Skills
