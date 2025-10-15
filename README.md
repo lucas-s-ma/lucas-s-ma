@@ -11,13 +11,16 @@
 
 <h4><p align="center">Computer Science + Mathematics @ Duke University</p></h4> 
 
-### ❤️ Passion
+<h3><p align='left'> ❤️ Passion </center></p></h3>
+
 Machine learning, full-stack development, and leveraging technology to solve real-world problems. 
 
-### 🧠 Current Project
+<h3><p align='left'> 🧠 Current Project </center></p></h3>
+
 [Exploring multihead attention in protein language models and constraint learning](https://github.com/lucas-s-ma/co-amp).<br>
 
-### 🔧 Technologies & Skills
+<h3><p align='left'> 🔧 Technologies & Skills </center></p></h3>
+
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> </a>
@@ -28,7 +31,7 @@ Machine learning, full-stack development, and leveraging technology to solve rea
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> </a>
 </p>
 
-### 🚀 Featured Projects<br>
+<h3><p align='left'> 🚀 Featured Projects </center></p></h3>
 
 Here are some of the projects I'm / I've been working on. You can find more on my repositories page!
 
@@ -38,5 +41,6 @@ Here are some of the projects I'm / I've been working on. You can find more on m
 
 [Bias Parsing in Historical Texts](https://github.com/lucas-s-ma/ECBCData2024): An encoder-only pipeline for quantitative historical and sociological research.
 
-### 🎬 Fun Fact
+<h3><p align='left'> 🎬 Fun Fact </center></p></h3>
+
 I'm also a theater director! Check out [The Return (Friedrich Dürrenmatt)](https://youtu.be/6bVGgAxMyRg?si=inQODltwfsqAgw6X).<br>
